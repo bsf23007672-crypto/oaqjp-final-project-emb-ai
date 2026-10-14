@@ -1,0 +1,8 @@
+REFERENCE OUTPUT — obtain/verify in the Skills Network lab before submission
+
+$ python3 test_emotion_detection.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.516s
+
+OK
